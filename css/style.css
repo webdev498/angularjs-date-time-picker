@@ -1,0 +1,43 @@
+body{
+	color: #666666;
+	font-family: Georgia;
+}
+
+a.ng-binding{
+	color: #111111;
+}
+
+#form_4 li{
+	margin-left: 25px;
+}
+
+form{
+	display: hidden;
+	margin-bottom: -10px;
+	overflow: hidden;
+}
+
+span.k-icon{
+	margin-top: 10px;
+}
+ul{
+	margin-left: 0px;
+}
+
+.alert{
+	margin-bottom: 0px;
+}
+.panel-info{
+	border: 1px solid #ddd;
+	border-top: none;
+	border-top-right-radius: 0px;
+	border-top-left-radius: 0px;
+}
+
+#form_1 input{
+	height: 30px;
+}
+
+#form_2 .locations{
+	height: 30px !important;
+}
